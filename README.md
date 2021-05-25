@@ -49,9 +49,9 @@ Knowing that apps are made daily, it's best to narrow down what kind of apps to 
 
 When researching for an app to download, one of the most important question: **Do I have enough space on my phone?** Most users don't feel inclined to download an app that takes up too much space on their device. So when creating an app it's best to considered how much space you want to take up.
 
-![size_by_cat](images/cap4.png)
+![size_by_cat](images/size_cat.png)
 
-**Size is a great predictor for Installs. Majority of the apps installed are no more than 200 megabytes in size. This shows that size does matter. Most consumers don't want to download apps that takes up too much space on their device storage.  Moreover, Google only permits apps that are less than 500mb. You can still upload a bigger app but it will be broken into two parts.**
+**Size is a great predictor for Installs. Majority of the apps installed are no more than 200 megabytes in size. This shows that size does matter. Most consumers don't want to download apps that takes up too much space on their device storage.  Moreover, Google only permits apps that are less than 500mb. You can still upload a bigger app but it will be broken into two parts. Diving deeper you can see that Gaming apps are between 25-100 megabytes, and they have the most apps that are big in size. This could possibly be the result of updates happening in most games**
 
 # Recommendations
 
