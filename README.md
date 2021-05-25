@@ -49,7 +49,7 @@ Knowing that apps are made daily, it's best to narrow down what kind of apps to 
 
 When researching for an app to download, one of the most important question: **Do I have enough space on my phone?** Most users don't feel inclined to download an app that takes up too much space on their device. So when creating an app it's best to considered how much space you want to take up.
 
-![size_by_cat](images/size_cat.png)
+![size_by_cat](images/cap4.png)
 
 **Size is a great predictor for Installs. Majority of the apps installed are no more than 200 megabytes in size. This shows that size does matter. Most consumers don't want to download apps that takes up too much space on their device storage.  Moreover, Google only permits apps that are less than 500mb. You can still upload a bigger app but it will be broken into two parts. Diving deeper you can see that Gaming apps are between 25-100 megabytes, and they have the most apps that are big in size. This could possibly be the result of updates happening in most games**
 
@@ -58,7 +58,7 @@ When researching for an app to download, one of the most important question: **D
 ## How good was the final model?
 **Random Forest Regressor is the final model with the best accuracy of 90.3% for this problem. Looking at both of these figures, the predicted prices (red dots) coincide with the actual values(blue dots). It's not perfect but it's great start.**
 
-![predict_real](cap7.png)
+![predict_real](images/cap7.png)
 
 ## Features Importance
 **This graphs shows the feature importance of this particular model. This technique assign a score to features based on how important they are to predicting a target variable.**
